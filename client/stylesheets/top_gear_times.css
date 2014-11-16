@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+.icon {
+    font-size: 26px;
+}
+
+.table td, .table th {
+    font-size: 26px;
+    text-align: center;
+}
